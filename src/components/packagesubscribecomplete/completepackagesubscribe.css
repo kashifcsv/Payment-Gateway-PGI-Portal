@@ -1,0 +1,39 @@
+.happy {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+}
+.some {
+  display: flex;
+  justify-content: center;
+  margin-top: -3%;
+}
+
+.f15 {
+  font-size: 1.5rem;
+}
+.f15p {
+  font-size: 17px;
+  margin-top: -2%;
+  margin-left: 4%;
+}
+
+#animation1 {
+  position: absolute;
+  top: 42rem;
+}
+
+.flexCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.sad {
+  width: 35%;
+}
+
+@media (min-width: 768px) {
+  .sad {
+    width: 7%;
+  }
+}

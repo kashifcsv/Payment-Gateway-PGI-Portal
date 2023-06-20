@@ -1,0 +1,123 @@
+.mobileCredit {
+  padding: 2%;
+  font-weight: 480;
+}
+
+.ml39 {
+  margin-left: 39%;
+}
+.ml30 {
+  margin-left: 30%;
+}
+.ml52 {
+  margin-left: 52%;
+}
+
+.btnWidth {
+  /* width: 17rem; */
+  max-width: 300px;
+  min-width: 300px;
+}
+
+.textColorEnter {
+  color: #575757;
+  font-size: 14px;
+}
+.resendCode {
+  color: #1180f9;
+  font-size: 16px;
+}
+
+.wrongOtp {
+  background-color: #d25151;
+  border-radius: 6px;
+  font-size: 13px;
+}
+
+.imageInfo {
+  width: 20px;
+  padding: 2px;
+}
+
+@media only screen and (max-width: 280px) {
+  .btnWidth {
+    width: 13rem;
+    max-width: 300px;
+    min-width: 250px;
+    margin-left: -3px;
+  }
+  .only768 {
+    display: flex;
+    justify-content: center;
+    width: 106%;
+  }
+  .width25Icons {
+    width: 10%;
+  }
+  .width10Icons {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .only768 {
+    display: flex;
+    justify-content: center;
+  }
+  .only768Block {
+    display: block;
+  }
+  .width25Icons {
+    width: 10%;
+  }
+  .width10Icons {
+    width: 5%;
+  }
+}
+
+@media (min-width: 768px) {
+  .only768 {
+    display: flex;
+    justify-content: center;
+  }
+  .only768Block {
+    display: block;
+  }
+  .width25Icons {
+    width: 7%;
+  }
+  .width10Icons {
+    width: 34px;
+    height: 31px;
+  }
+
+  .uf {
+    width: 86px !important;
+    height: 43px !important;
+  }
+
+  .z {
+    width: 88px !important;
+    height: 30px !important;
+  }
+
+  .tel {
+    width: 34px !important;
+    height: 31px !important;
+  }
+
+  .some {
+    width: 88px !important;
+    height: 49px !important;
+  }
+}
+
+.someCash {
+  width: 92px;
+  height: 49px;
+}
+
+.easymoney {
+  width: 167px;
+  height: 61px;
+}

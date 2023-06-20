@@ -1,0 +1,13 @@
+.footerCss {
+  color: #1180f9;
+  font-size: 12px;
+  text-decoration: underline;
+  margin-bottom: 10%;
+}
+
+@media (min-width: 768px) {
+  .footerCss {
+    display: flex;
+    justify-content: center;
+  }
+}

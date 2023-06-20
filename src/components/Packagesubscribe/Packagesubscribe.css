@@ -1,0 +1,52 @@
+.titleImagePackagesubscribe {
+  position: absolute;
+  width: 250px;
+  height: 141px;
+  left: 63px;
+  background: url(/images/somelogo.png);
+}
+
+.ring {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 130px;
+  top: 370px;
+  background: url(/images/uploads/check_ring.png);
+}
+.headingsucces {
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  color: #1180f9;
+}
+.title2 {
+  position: absolute;
+  width: 218px;
+  height: 72px;
+  left: 78px;
+  top: 532px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#animation {
+  position: absolute;
+  top: 39rem;
+  left: 35%;
+}
+
+.footer {
+  position: absolute;
+  top: 110%;
+}
+
+.titlePackageSubscribe {
+  display: flex;
+  justify-content: center;
+}

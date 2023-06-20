@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="live_selected" transform="translate(1165 369)">
+    <g id="Group_830" data-name="Group 830">
+      <path id="Path_615" data-name="Path 615" d="M-5.524-1V0H-9.335V-6.507h1.211V-1Zm2.529,1H-4.21V-6.507h1.215ZM4.484-6.507,1.856,0H.763L-1.865-6.507h.972a.408.408,0,0,1,.257.077.468.468,0,0,1,.148.2L1.046-2.264q.076.194.146.425t.133.484q.054-.252.117-.484a4.044,4.044,0,0,1,.14-.425L3.107-6.233a.426.426,0,0,1,.142-.189.4.4,0,0,1,.259-.086Zm2.34.963v1.8H9.1v.931H6.824V-.968H9.713V0h-4.1V-6.507h4.1v.963Z" transform="translate(-1140 -347)" fill="#868a9b"/>
+      <g id="Group_827" data-name="Group 827" transform="translate(0 131)">
+        <text id="CHANNELS" transform="translate(-1140 -461)" fill="#868a9b" font-size="7" font-family="Lato-Medium, Lato" font-weight="500" letter-spacing="0.05em"><tspan x="-19.707" y="0">CHANNELS</tspan></text>
+        <g id="Path_616" data-name="Path 616" transform="translate(-1159 -489)" fill="none">
+          <path d="M0,0H38V15H0Z" stroke="none"/>
+          <path d="M 1 1 L 1 14 L 37 14 L 37 1 L 1 1 M 0 0 L 38 0 L 38 15 L 0 15 L 0 0 Z" stroke="none" fill="#868a9b"/>
+        </g>
+      </g>
+      <rect id="Rectangle_645" data-name="Rectangle 645" width="50" height="50" transform="translate(-1165 -369)" fill="none"/>
+    </g>
+  </g>
+</svg>

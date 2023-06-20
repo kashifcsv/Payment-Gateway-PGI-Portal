@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_396" data-name="Path 396" d="M0-20H16.45V-3.55H0Z" transform="translate(0 20)" fill="#868a9b"/>
+    </clipPath>
+  </defs>
+  <g id="watchlist_selected" transform="translate(1092 369)">
+    <g id="Group_829" data-name="Group 829">
+      <g id="Group_826" data-name="Group 826" transform="translate(0 131)">
+        <text id="WATCH_LIST" data-name="WATCH LIST" transform="translate(-1067 -461)" fill="#868a9b" font-size="7" font-family="Lato-Medium, Lato" font-weight="500" letter-spacing="0.05em"><tspan x="-21.84" y="0">WATCH LIST</tspan></text>
+        <g id="Group_531" data-name="Group 531" transform="translate(-1075 -470)">
+          <g id="Group_530" data-name="Group 530" transform="translate(0 -20)" clip-path="url(#clip-path)">
+            <g id="Group_528" data-name="Group 528">
+              <path id="Path_394" data-name="Path 394" d="M-1.775-3.195a6.578,6.578,0,0,1-6.58-6.58,6.578,6.578,0,0,1,6.58-6.58,6.578,6.578,0,0,1,6.58,6.58,6.578,6.578,0,0,1-6.58,6.58M-1.783-18A8.221,8.221,0,0,0-10-9.775,8.221,8.221,0,0,0-1.783-1.55,8.23,8.23,0,0,0,6.45-9.775,8.23,8.23,0,0,0-1.783-18" transform="translate(10 18)" fill="#868a9b"/>
+            </g>
+            <g id="Group_529" data-name="Group 529" transform="translate(7.403 4.113)">
+              <path id="Path_395" data-name="Path 395" d="M-.266,0H-1.5V4.935L2.818,7.526l.617-1.012-3.7-2.2Z" transform="translate(1.5)" fill="#868a9b"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_646" data-name="Rectangle 646" width="50" height="50" transform="translate(-1092 -369)" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+.mobileCredit {
+  padding: 2%;
+  font-weight: 500;
+}
+
+.ml39 {
+  margin-left: 39%;
+}
+.ml30 {
+  margin-left: 30%;
+}
+.ml52 {
+  margin-left: 52%;
+}
+
+.btnWidth19 {
+  /* width: 19rem; */
+  max-width: 300px;
+  min-width: 300px;
+}
+.mt30 {
+  /* margin-top: 30%; */
+  margin-top: 5%;
+}
+
+.paymentMethodCardsAlign {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.width25 {
+  width: 25rem;
+}
+
+.fs77 {
+  font-size: 15px;
+}
+
+@media (min-width: 768px) {
+  .fs77 {
+    font-size: 77% !important;
+  }
+}
+@media only screen and (max-width: 290px) {
+  .width25 {
+    width: 16rem;
+  }
+  .fs77 {
+    font-size: 11px;
+  }
+  .rectangle {
+    display: none;
+  }
+  .some {
+    margin-left: -30px;
+  }
+  .tel {
+    margin-left: -25px;
+  }
+  .z {
+    margin-left: 8px !important;
+  }
+  .uf {
+    margin-left: 10px !important;
+  }
+}

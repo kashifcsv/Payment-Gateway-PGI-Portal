@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="more_selected" transform="translate(1022 369)">
+    <g id="Group_828" data-name="Group 828">
+      <g id="Group_824" data-name="Group 824" transform="translate(0 129.994)">
+        <text id="MORE" transform="translate(-997 -460)" fill="#868a9b" font-size="7" font-family="Lato-Medium, Lato" font-weight="500" letter-spacing="0.05em"><tspan x="-10.824" y="0">MORE</tspan></text>
+        <g id="Group_523" data-name="Group 523" transform="translate(-1005 -475.994)">
+          <path id="Path_389" data-name="Path 389" d="M0-10H16.113v-2H0Zm0-2M0-5H16.113V-7H0ZM0-7m0,7H16.113v-2H0Z" fill="#868a9b"/>
+        </g>
+      </g>
+      <rect id="Rectangle_647" data-name="Rectangle 647" width="50" height="50" transform="translate(-1022 -369)" fill="none"/>
+    </g>
+  </g>
+</svg>
